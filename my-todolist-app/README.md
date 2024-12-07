@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can access the To-Do List application by navigating to http://localhost:5173 in your web browser.
 
 Currently, two official plugins are available:
 
